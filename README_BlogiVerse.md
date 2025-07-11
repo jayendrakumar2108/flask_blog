@@ -162,9 +162,3 @@ MIT License – free to use, modify, and distribute.
 - FontAwesome
 
 ---
-
-## 📫 Contact
-
-**Danthuluri Sai Hemanth Varma**  
-📧 [saihemanthdanthuluri03@gmail.com](mailto:saihemanthdanthuluri03@gmail.com)  
-🌐 [GitHub](https://github.com/danthulurisaihemanth)
