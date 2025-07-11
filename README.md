@@ -1,14 +1,5 @@
-# 📝 BlogiVerse – A Flask Blogging Platform
-
-**BlogiVerse** is a secure, responsive, and feature-rich blogging platform built with **Flask**, **JWT**, and **Flask-Login**.
-
-It supports:
-- Full blog CRUD operations
-- User authentication with role-based access (admin, publisher)
-- Password reset via email
-- Search and filter functionality
-- A modern UI using Bootstrap
-
+# BlogiVerse – A Flask Blogging Platform
+BlogiVerse is a secure, responsive, and feature-rich blogging platform built with Flask, JWT, and Flask-Login. It supports full blog CRUD operations, user authentication with role-based access (admin, publisher), password reset via email, search and filter functionality, and modern UI with Bootstrap.
 ---
 
 ## 🚀 Features
